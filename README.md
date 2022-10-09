@@ -14,3 +14,6 @@ You are provided with an anonymized dataset containing a large number of numeric
 The task is to predict the probability that each customer in the test set is an unsatisfied customer.
 
 We implement a decision tree classifier model from the Scikit-learn library to predict the class. We will initially evaluate the default decision tree model and step by step explore differnent parameters of the decision tree classifier to improve the model.
+
+![ModelComparison_Santander](https://user-images.githubusercontent.com/112804900/194783245-1cf594a6-7263-45dc-807f-abc83dfeed3d.png)
+
