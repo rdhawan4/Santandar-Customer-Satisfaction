@@ -17,7 +17,7 @@ We implement a decision tree classifier model from the Scikit-learn library to p
 
 ![ModelComparison_Santander](https://user-images.githubusercontent.com/112804900/194783245-1cf594a6-7263-45dc-807f-abc83dfeed3d.png)
 
-Learnings:
+Learnings: <br>
 -Building a Classification model using Decision Tree Classfier <br>
 -Manually tuning ML Models for better accuracy and ROC score <br>
 -Model Evaulation using Accuracy, Precision, Recall and ROC curves <br>
