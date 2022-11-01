@@ -21,3 +21,7 @@ Learnings: <br>
 -Building a Classification model using Decision Tree Classfier <br>
 -Manually tuning ML Models for better accuracy and ROC score <br>
 -Model Evaulation using Accuracy, Precision, Recall and ROC curves <br>
+
+## Note
+Main Testcode : SantendeCustomerSatisfaction.ipynb <br>
+Datasets available in Data folder <br>
